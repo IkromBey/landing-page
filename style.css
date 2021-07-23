@@ -71,6 +71,7 @@ body {
 .register:hover {
    background-color: hsl(300, 69%, 71%);
    color: hsl(0, 0%, 100%);
+   border: none;
 }
 .social {
   /* border: 2px solid yellow; */
@@ -154,6 +155,7 @@ body {
   display: inline-flex;
   justify-content: center;
   padding: 20px;
+  border: none;
 }
 .social {
   margin: 0 auto;
