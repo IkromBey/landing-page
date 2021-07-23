@@ -72,6 +72,7 @@ body {
    background-color: hsl(300, 69%, 71%);
    color: hsl(0, 0%, 100%);
    border: none;
+   outline: none;
 }
 .register:focus {
   outline: none;
