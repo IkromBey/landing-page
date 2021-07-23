@@ -73,6 +73,9 @@ body {
    color: hsl(0, 0%, 100%);
    border: none;
 }
+.register:focus {
+  outline: none;
+}
 .social {
   /* border: 2px solid yellow; */
   /* position: absolute;
